@@ -27,7 +27,7 @@ const defaultConfig: FoursquareConfig = {
       This field will indicate which version of the Foursquare API you wish to
       call. If not specified it will use the last publish date of this library.
      */
-    // 'version' : '20140806',
+    version : '20180516',
     /*
       This field determines how this library handles endpoints that return
       results along with an error, (e.g. deprecations).
