@@ -74,8 +74,7 @@ match your OAuth configuration in Foursquare. Using Express, for example:
 Foursquare allows consumers to specify a 'version' of their API to invoke,
 based on the date that version became active. For example, passing a version
 string of '20110101' uses the API as of Jan 1, 2011. By default, this library
-will use a version of '20140806', the minimum date for the Foursquare/Swarm
-migration.
+will use a version of '20180513'.
 
 To enable a different version of the API, add the following to configuration:
 
